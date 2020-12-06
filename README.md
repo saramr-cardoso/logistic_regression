@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Regressão Logística
 
 Este projeto implementa, do zero, um algoritmo de regressão logística, recorrendo apenas à biblioteca numpy. 
@@ -40,4 +41,3 @@ previsoes = regressor.predict(X_previsao)
 
 ### Resultado
 A(s) classe(s) prevista(s) é/são [1, 0]
-
